@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseEJ", "fIREBASE32\FirebaseEJ.csproj", "{CE81E450-26D0-44E3-AF31-C3E216A30934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE81E450-26D0-44E3-AF31-C3E216A30934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE81E450-26D0-44E3-AF31-C3E216A30934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE81E450-26D0-44E3-AF31-C3E216A30934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE81E450-26D0-44E3-AF31-C3E216A30934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8F6552-2B56-4A38-ADAE-9B0AED648C78}
+	EndGlobalSection
+EndGlobal
